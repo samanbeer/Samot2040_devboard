@@ -1,6 +1,8 @@
 ## SamotPi2040 Board
 
+https://forge.hackclub.com/projects/1745
 
+This is custom RP2040 based  MCU. You can edit anything or order with gerber.zip in gerber folder.
 
 Schematic:
 
@@ -12,7 +14,7 @@ PCB:
 
 Image of PCB:
 
-![3d_pcb](images\3d_pcb.png)
+![3d_pcb](images/3d_pcb.png)
 
 Rendered Image of PCB
 
