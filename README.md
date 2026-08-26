@@ -120,7 +120,7 @@ flowchart LR
 | 1 | **MX25L6433FM2I-08G** (8MB Flash) | U3 | SOIC-8 (5.3x5.3mm, 1.27mm pitch) | [TME LINK](https://www.tme.eu/cz/details/mx25l6433fm2i-08g/pameti-flash-seriove/macronix-international/mx25l6433fm2i-08g-tube/) | $2.40 |
 | 1 | **MCP1700T-3302E/TT** (3.3V LDO) | U2 | SOT-23 | [TME LINK](https://www.tme.eu/cz/details/mcp1700t-3302e_tt/stabilizatory-napeti-neregulovane-ldo/microchip-technology/) | $0.65 |
 | 1 | **12 MHz Crystal** | Y1 | SMD 3225-4Pin (3.2x2.5mm) | [TME LINK](https://www.tme.eu/cz/details/abm8g-12.000mhz-18/resonators-and-generators/abracon/abm8g-12-000mhz-18-d2y-t/) | $0.39 |
-| 1 | **USB-C Receptacle 16P** | J1 | GCT USB4085 | [TME LINK](https://www.tme.eu/cz/details/usb4085-gf-a/konektory-usb-a-ieee1394/gct/) | $1.05 |
+| 1 | **USB-C Receptacle 16P** | J1 | GCT_USB4105 | [TME LINK](https://www.tme.eu/cz/details/usb4105-gf-a/konektory-usb-a-ieee1394/gct/) | $0.75 |
 | 2 | **Tactile Switch SPST** | SW1, SW2 | SMD (Omron B3U-1000P-B) | [TME LINK](https://www.tme.eu/cz/details/b3u-1000pb/mikrospinace-tact/omron-electronic-components/b3u-1000p-b/) | $1.95 |
 | 12 | **0.1 µF (100nF) 16V** | C2, C3, C4, C5, C6, C7, C8, C9, C11, C12, C17, C18 | C_0402 (1005 Metric) | [TME LINK](https://www.tme.eu/cz/details/grm155r71c104ka88d/kondenzatory-mlcc-smd/murata/) | $0.17 |
 | 2 | **1 µF 25V** | C1, C10 | C_0402 (1005 Metric) | [TME LINK](https://www.tme.eu/cz/details/grm155r61e105ma12d/kondenzatory-mlcc-smd/murata/) | $0.095 |
@@ -133,7 +133,7 @@ flowchart LR
 | 2 | **Pin Header 1x20 (2.54mm)** | J2, J3 | PinHeader_1x20_P2.54mm_Vertical | [TME LINK](https://www.tme.eu/cz/details/sl8.20z/konektory-hrebinky/fischer-elektronik/10057879/) | $4.5(I dont need these. Already own) |
 | 5 | **PCB ** | PCB | 2-layer FR-4 (1.6mm, ENIG/HASL) | [JLCPCB](https://jlcpcb.com) | ~$13.45 |
 | - | **Estimated Shipping** | - | - | - | ~$8.21 |
-| **Total** | | | | | **~$30.76** |
+| **Total** | | | | | **~$30.3** |
 
 ### JLCPCB Cart:
 
